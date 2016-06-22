@@ -1,5 +1,10 @@
 # Using forecast api from here https://github.com/ZeevG/python-forecast.io
 # Importing datetime module to get current date and time
+# Author: Bhaumik Shah
+# Python version used: 2.7.10
+# Project URL to fork: https://github.com/shahbhaumik/smart_thermostat.git
+# Usage and Wiki at: https://github.com/shahbhaumik/smart_thermostat/wiki
+
 import forecastio
 from datetime import datetime
 

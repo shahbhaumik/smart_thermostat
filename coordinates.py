@@ -1,5 +1,10 @@
 # Coordinate class to get coordinates from google MAP API
 # Output will be fed to forecast.io api for weather information
+# Requests plugin is required and is used for HTTP requests
+# Author: Bhaumik Shah
+# Python version used: 2.7.10
+# Project URL to fork: https://github.com/shahbhaumik/smart_thermostat.git
+# Usage and Wiki at: https://github.com/shahbhaumik/smart_thermostat/wiki
 
 import requests
 
